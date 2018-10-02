@@ -1,6 +1,6 @@
 <form action="" method="POST">
 	<center>
-		<body >
+		<body>
 		<br><br><br><br><br><br><br><br><br><br>
 	<table border="1" bgcolor="#d8f9ff">
 			<tr bgcolor="#fcf5b8">
